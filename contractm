@@ -1,0 +1,35 @@
+git clone [https://github.com/ST10089150/ContractMonthlyClaimSystemPOE.git]
+cd ContractMonthlyClaimSystem
+git add .
+git commit -m "Initial setup: Added project files and basic structure"
+git push origin main
+git add .
+git commit -m "Initial setup: Added project files and basic structure"
+git push origin main
+git add .
+git commit -m "Added main navigation window with Submit Claim, Approvals, and Track Status buttons"
+git push origin main
+git add .
+git commit -m "Implemented Lecturer View: Added claim submission form with fields for hours worked, hourly rate, and notes"
+git push origin main
+git add .
+git commit -m "Added file upload feature: Enabled document upload with file type and size validation"
+git push origin main
+git add .
+git commit -m "Implemented Manager View: Added Approve/Reject functionality for claims"
+git push origin main
+git add .
+git commit -m "Added HR View: Enabled real-time claim status tracking with labels"
+git push origin main
+git add .
+git commit -m "Added auto-calculation feature: Automatically calculates payment in Lecturer View"
+git push origin main
+git add .
+git commit -m "Implemented input validation: Ensured accurate data entry in Lecturer View"
+git push origin main
+git add .
+git commit -m "Refined navigation: Improved Lecturer, Manager, and HR View transitions"
+git push origin main
+git add .
+git commit -m "Final fixes: Resolved bugs, improved performance, and cleaned up code"
+git push origin main
